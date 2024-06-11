@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![MasterHead]( <img align="right" alt="Coding" width="400" src="add your link 
-  here">)]([your GitHub link](https://github.com/Mukesh2312))
+  here">)]([[your GitHub link](https://github.com/Mukesh2312)](https://github.com/Mukesh2312))
 
 
 <h3 align="left">Connect with me:</h3>
