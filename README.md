@@ -9,4 +9,5 @@ Mukesh2312/Mukesh2312 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[![MasterHead](your image link)]([your GitHub link](https://github.com/Mukesh2312))
+[![MasterHead]( <img align="right" alt="Coding" width="400" src="add your link 
+  here">)]([your GitHub link](https://github.com/Mukesh2312))
