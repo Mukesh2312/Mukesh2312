@@ -1,10 +1,10 @@
-<h1> Hi, I'm Mukesh 👋</h1>
+# Hi, I'm Mukesh 👋
 
+💻 Full-Stack Developer | MERN Stack | JavaScript Enthusiast  
+🌱 Currently exploring real-time messaging apps & authentication flows  
+⚡ Passionate about building polished, user-friendly web interfaces  
 
-
-💻 Frontend Developer | React | MongoDB  
-🌱 Currently building a WhatsApp-like messaging app  
-⚡ Fun fact: I love experimenting with interactive UI features  
+---
 
 ## 🛠️ Skills
 
@@ -33,7 +33,7 @@
 
 ### 📚 CS Fundamentals
 ![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-008080?logo=codeforces&logoColor=white)
-![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-FF6F00?logo=java&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-FF6F00?logo=java&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-4479A1?logo=database&logoColor=white)
 ![OS](https://img.shields.io/badge/Operating%20Systems-000000?logo=linux&logoColor=white)
 
@@ -44,12 +44,22 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-<!---
+---
+
 ## 📌 Featured Projects
-- [Messaging App](https://github.com/yourusername/messaging-app) – Real-time chat with authentication
-- [UI Toolkit](https://github.com/yourusername/ui-toolkits) – Reusable React components
---->
+- [Messaging App](https://github.com/Mukesh2312/messaging-app) – Real-time chat with authentication (MERN + WebSockets)  
+- [UI Toolkit](https://github.com/Mukesh2312/ui-toolkits) – Reusable React components for modern UIs  
+- [DSA Solutions](https://github.com/Mukesh2312/dsa-solutions) – Collection of solved problems with explanations  
+
+---
+
 ## 📊 GitHub Stats
-![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukesh2312&show_icons=true)
+![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukesh2312&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukesh2312&layout=compact&theme=radical)
 
+---
 
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mukesh2312)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://Mukesh2312.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
