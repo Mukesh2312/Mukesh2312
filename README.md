@@ -20,11 +20,11 @@ You can click the Preview link to take a look at your changes.
 ## 🚀 Skills
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-
+<!---
 ## 📌 Featured Projects
 - [Messaging App](https://github.com/yourusername/messaging-app) – Real-time chat with authentication
 - [UI Toolkit](https://github.com/yourusername/ui-toolkits) – Reusable React components
-
+--->
 ## 📊 GitHub Stats
 ![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukesh2312&show_icons=true)
 
