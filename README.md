@@ -28,7 +28,7 @@
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
 
 ### 📚 CS Fundamentals
 ![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-008080?logo=codeforces&logoColor=white)
