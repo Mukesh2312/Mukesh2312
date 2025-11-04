@@ -25,9 +25,16 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?logo=rest&logoColor=white)
 
+### 🔐 Authentication & Security
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-3C3C3D?logo=oauth&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?logo=passport&logoColor=black)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-00BFFF?logo=security&logoColor=white)
+
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)
 
 
 ### 📚 CS Fundamentals
@@ -43,6 +50,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
+
+### ☁️ Deployment & DevOps
+![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
 ---
 
 ## 📌 Featured Projects
